@@ -32,11 +32,11 @@ Connecting donors with seekers when every second counts. Built with React Native
 <td width="50%">
 
 ### 🔔 [Beacon](https://github.com/orzazade/beacon)
-**macOS menu bar task aggregator**
+**AI-powered macOS menu bar for work**
 
-One unified view for Azure DevOps work items, Outlook flagged emails, and Gmail starred messages. Stop context-switching, start focusing.
+Unified view of Azure DevOps, Teams, Outlook, Gmail with AI priority analysis, daily briefings, and smart notifications. Your work, one glance away.
 
-`Swift` `SwiftUI` `macOS` `OAuth 2.0`
+`Swift` `SwiftUI` `Ollama` `PostgreSQL`
 
 </td>
 </tr>
@@ -109,8 +109,8 @@ DevOps          → Azure DevOps, GitHub Actions
 <summary>🎯 What I'm Focused On</summary>
 
 - 🩸 Making blood donation accessible with **Pulse**
-- 🔔 Simplifying developer workflows with **Beacon**
-- 🤖 Exploring AI-assisted development
+- 🔔 Shipped **Beacon** v1.1 with AI briefings & priority analysis
+- 🤖 Building local-first AI experiences with Ollama
 - 📱 Building native experiences that feel right
 
 </details>
