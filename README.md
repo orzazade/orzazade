@@ -2,6 +2,7 @@
 
 📍 **Azerbaijan** | 🛠️ **Full-Stack Engineer** | 🚀 **Building things that matter**
 
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -19,24 +20,34 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🩸 [Pulse](https://github.com/orzazade/pulse)
-**Blood donation matching platform**
+**Blood donation platform**
 
-Connecting donors with seekers when every second counts. Built with React Native, Expo, and Convex for real-time updates.
+Connecting donors with seekers when every second counts. Real-time matching saves lives.
 
-`TypeScript` `React Native` `Expo` `Convex`
+`React Native` `Expo` `Convex`
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🔔 [Beacon](https://github.com/orzazade/beacon)
-**AI-powered macOS menu bar for work**
+**AI-powered menu bar**
 
-Unified view of Azure DevOps, Teams, Outlook, Gmail with AI priority analysis, daily briefings, and smart notifications. Your work, one glance away.
+Unified work view with AI priority analysis, daily briefings, and smart notifications.
 
-`Swift` `SwiftUI` `Ollama` `PostgreSQL`
+`Swift` `SwiftUI` `Ollama`
+
+</td>
+<td width="33%">
+
+### 🔀 [gitch](https://github.com/orzazade/gitch)
+**Git identity manager**
+
+Never commit with the wrong identity again. SSH keys, auto-switching, and beautiful TUI.
+
+`Go` `Cobra` `Bubble Tea`
 
 </td>
 </tr>
@@ -77,9 +88,10 @@ Stay updated on legal announcements. Automated notifications for Azerbaijan's of
 
 ```
 Frontend        → React, React Native, Expo, SwiftUI
-Backend         → .NET, Node.js, Convex
+Backend         → .NET, Node.js, Convex, Go
+CLI Tools       → Cobra, Bubble Tea, Lipgloss
 Databases       → MongoDB, PostgreSQL, SQLite
-Mobile          → iOS (Swift), Cross-platform (React Native)
+Mobile/Desktop  → iOS (Swift), macOS, Cross-platform (React Native)
 Cloud           → Azure, Google Cloud
 DevOps          → Azure DevOps, GitHub Actions
 ```
@@ -110,8 +122,8 @@ DevOps          → Azure DevOps, GitHub Actions
 
 - 🩸 Making blood donation accessible with **Pulse**
 - 🔔 Shipped **Beacon** v1.1 with AI briefings & priority analysis
-- 🤖 Building local-first AI experiences with Ollama
-- 📱 Building native experiences that feel right
+- 🔀 Building **gitch** — git identity management done right
+- 🤖 Building local-first AI & beautiful CLI experiences
 
 </details>
 
