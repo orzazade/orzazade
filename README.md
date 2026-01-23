@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### 🩸 [Pulse](https://github.com/orzazade/pulse)
 **Blood donation platform**
@@ -30,7 +30,7 @@ Connecting donors with seekers when every second counts. Real-time matching save
 `React Native` `Expo` `Convex`
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### 🔔 [Beacon](https://github.com/orzazade/beacon)
 **AI-powered menu bar**
@@ -40,7 +40,9 @@ Unified work view with AI priority analysis, daily briefings, and smart notifica
 `Swift` `SwiftUI` `Ollama`
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
 
 ### 🔀 [gitch](https://github.com/orzazade/gitch)
 **Git identity manager**
@@ -48,6 +50,16 @@ Unified work view with AI priority analysis, daily briefings, and smart notifica
 Never commit with the wrong identity again. SSH keys, auto-switching, and beautiful TUI.
 
 `Go` `Cobra` `Bubble Tea`
+
+</td>
+<td width="50%">
+
+### ⚡ [pzap](https://github.com/orzazade/pzap)
+**Port & process manager**
+
+Zap that port! See all listening ports in your menu bar and kill processes with one click.
+
+`Swift` `SwiftUI` `macOS`
 
 </td>
 </tr>
@@ -123,6 +135,7 @@ DevOps          → Azure DevOps, GitHub Actions
 - 🩸 Making blood donation accessible with **Pulse**
 - 🔔 Shipped **Beacon** v1.1 with AI briefings & priority analysis
 - 🔀 Building **gitch** — git identity management done right
+- ⚡ Building **pzap** — one-click port management for developers
 - 🤖 Building local-first AI & beautiful CLI experiences
 
 </details>
