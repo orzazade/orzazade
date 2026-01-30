@@ -63,7 +63,7 @@ DevOps          Azure DevOps · GitHub Actions
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=orzazade&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=orzazade&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 ---
