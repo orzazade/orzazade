@@ -17,6 +17,8 @@
 
 ### Developer Tools
 
+- 📡 **[awesome-ai-radar](https://github.com/orzazade/awesome-ai-radar)** — Community-powered AI trend radar. Track what matters, ignore the noise. A distributed swarm of Claude agents researches AI developments weekly, rates signal vs noise, and publishes an interactive radar. *11ty, Claude Code Skill, GitHub Actions* → [Live Radar](https://orzazade.github.io/awesome-ai-radar)
+
 - 🔀 **[gitch](https://github.com/orzazade/gitch)** — Git identity manager with SSH/GPG support, auto-switching rules, and shell integration. Never commit with the wrong email again. *Go, Bubble Tea* → [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=orkhan-rzazade.gitch)
 
 - ⚡ **[pzap](https://github.com/orzazade/pzap)** — macOS menu bar app showing all listening ports. One click to kill any process. No more `lsof | grep | kill` dance. *Swift, SwiftUI*
