@@ -1,60 +1,68 @@
 # Hey, I'm Orkhan 👋
 
-**Full-Stack Engineer** from Azerbaijan, currently building at **AppXite** in Riga 🇱🇻
+**AI-native builder** from Azerbaijan, currently Tech Lead at **AppXite** in Riga 🇱🇻
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
 
-*Building developer tools and shipping fast. If it's annoying, I'll automate it.*
+*I build tools that make developers faster. If AI can do it, a human shouldn't have to.*
 
 ---
 
-## 🔥 What I'm Building
+## 🧠 AI & Agents
 
-### Developer Tools
+- 📡 **[awesome-ai-radar](https://github.com/orzazade/awesome-ai-radar)** — Community-powered AI trend radar. A distributed swarm of Claude agents researches developments weekly, rates signal vs noise, and publishes an interactive radar. *11ty, Claude Code Skill, GitHub Actions* → [Live Radar](https://orzazade.github.io/awesome-ai-radar)
 
-- 📡 **[awesome-ai-radar](https://github.com/orzazade/awesome-ai-radar)** — Community-powered AI trend radar. Track what matters, ignore the noise. A distributed swarm of Claude agents researches AI developments weekly, rates signal vs noise, and publishes an interactive radar. *11ty, Claude Code Skill, GitHub Actions* → [Live Radar](https://orzazade.github.io/awesome-ai-radar)
+- 🤖 **[ops](https://github.com/orzazade/ops)** — AI-powered DevOps assistant for Claude Code. Morning briefings, priority scoring, sprint management, PR reviews. Pure markdown skills, zero dependencies. *Claude Code Skills, Azure DevOps MCP*
+
+- 🌙 **[crius](https://github.com/orzazade/crius)** — Autonomous code improvement agent. Register a project, set a goal, go to sleep. Crius runs experiments — reading, improving, testing, keeping what works, reverting what doesn't. *TypeScript, PostgreSQL, Claude Code*
+
+- 🔔 **[beacon](https://github.com/orzazade/beacon)** — Unified work aggregator for your menu bar. Pulls from Azure DevOps, Teams, Outlook, Gmail. AI-prioritized with daily briefings. *Swift, SwiftUI, Ollama*
+
+## 🛠 Developer Tools
 
 - 🔀 **[gitch](https://github.com/orzazade/gitch)** — Git identity manager with SSH/GPG support, auto-switching rules, and shell integration. Never commit with the wrong email again. *Go, Bubble Tea* → [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=orkhan-rzazade.gitch)
 
 - ⚡ **[pzap](https://github.com/orzazade/pzap)** — macOS menu bar app showing all listening ports. One click to kill any process. No more `lsof | grep | kill` dance. *Swift, SwiftUI*
 
-- 🤖 **[ops](https://github.com/orzazade/ops)** — AI-powered DevOps assistant for Claude Code. Morning briefings, priority scoring, sprint management. Pure markdown, zero dependencies. *Claude Code Skills*
-
-- 🌙 **[crius](https://github.com/orzazade/crius)** — Autonomous code improvement agent. Register a project, set a goal, go to sleep. Crius runs experiments — reading, improving, testing, keeping what works, reverting what doesn't. *TypeScript, PostgreSQL, Claude Code*
-
-### Apps & Platforms
-
-- 🔔 **[beacon](https://github.com/orzazade/beacon)** — Unified work aggregator for your menu bar. Pulls from Azure DevOps, Teams, Outlook, Gmail. AI-prioritized with daily briefings. *Swift, SwiftUI, Ollama*
+## 📱 Apps & Platforms
 
 - 🩸 **[pulse](https://github.com/orzazade/pulse)** — Blood donation matching platform. Real-time donor-seeker connections when every second counts. *React Native, Expo, Convex*
 
+- ✈️ **[flight-scout](https://github.com/orzazade/flight-scout)** — FareGem: mobile-first flight deal assistant with ML-powered fare prediction and deal scoring. *NestJS, Expo, TypeORM, PostgreSQL, Python ML*
+
 - 📜 **[eqanun-notifier](https://github.com/orzazade/eqanun-notifier)** — Automated notifications for Azerbaijan's official legal gazette. *TypeScript*
+
+## 📈 Trading
+
+- 🐍 **[freqtrade-scalper](https://github.com/orzazade/freqtrade-scalper)** — Hydra: production trading system with custom Next.js dashboard and NestJS API. Champion strategy HydraV62OptA. *Python Freqtrade, Next.js, NestJS*
+
+- 📊 **[freqtrade](https://github.com/orzazade/freqtrade)** — Crypto strategy research lab. Champion V13a: 116,000% backtested return. *Python, Freqtrade*
 
 ---
 
 ## 🎮 Past Projects
 
-- 🗺️ **[PUBG-heatmap](https://github.com/orzazade/PUBG-heatmap-frontend)** — Analytics tool with heatmaps and 2D replay for PUBG matches. Built this to get better at the game. ⭐ 23
+- 🗺️ **[PUBG-heatmap](https://github.com/orzazade/PUBG-heatmap-frontend)** — Analytics with heatmaps and 2D replay for PUBG matches. ⭐ 23
 
-- 🎨 **[react-konva-drawing](https://github.com/orzazade/react-konva-drawing)** — Drawing app with undo/redo on game maps. React + Konva. ⭐ 8
+- 🎨 **[react-konva-drawing](https://github.com/orzazade/react-konva-drawing)** — Drawing app with undo/redo on game maps. ⭐ 8
 
 ---
 
 ## 🛠 Stack
 
 ```
-Languages       Go · Swift · TypeScript · C# · JavaScript
+Languages       TypeScript · Go · Swift · Python · C#
 Frontend        React · React Native · SwiftUI · Expo
-Backend         .NET · Node.js · Convex · Go
-CLI/TUI         Cobra · Bubble Tea · Lipgloss
-Desktop         macOS native (AppKit/SwiftUI)
-AI              Ollama · Claude · Local-first LLMs
-Cloud           Azure · GCP · Vercel
+Backend         NestJS · .NET · Convex · Go
+AI/Agents       Claude Code · Ollama · MCP · Freqtrade
+CLI/Desktop     Cobra · Bubble Tea · AppKit/SwiftUI
+Cloud           Azure · Vercel · Coolify
 DevOps          Azure DevOps · GitHub Actions
 ```
 
@@ -74,9 +82,10 @@ DevOps          Azure DevOps · GitHub Actions
 
 ## 🎯 Current Focus
 
-- Shipping **gitch v2** with team sharing and cloud sync
-- Building local-first AI tooling
-- Making developer workflows less painful
+- Building AI-native developer tools with Claude Code
+- Growing **awesome-ai-radar** as the go-to AI trend resource
+- Shipping production trading strategies with Hydra
+- Making developer workflows disappear
 
 ---
 
@@ -93,7 +102,8 @@ DevOps          Azure DevOps · GitHub Actions
 - 🎮 Built analytics tools for games I play
 - ☕ Powered by tea and late-night sessions
 - 🏔️ From Azerbaijan, shipping to the world
-- 🚀 Believer in shipping fast and iterating
+- 🚀 Built awesome-ai-radar from brainstorm to live site in one Claude Code session
+- 📈 My best trading strategy backtested 116,000% return
 
 </details>
 
@@ -103,4 +113,4 @@ DevOps          Azure DevOps · GitHub Actions
   <img src="https://komarev.com/ghpvc/?username=orzazade&color=58a6ff&style=flat&label=visitors" alt="Profile Views" />
 </p>
 
-*"If it's repetitive, automate it. If it's annoying, fix it. If it doesn't exist, build it."*
+*"If AI can do it, a human shouldn't have to."*
