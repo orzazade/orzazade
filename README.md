@@ -38,12 +38,6 @@
 
 - 📜 **[eqanun-notifier](https://github.com/orzazade/eqanun-notifier)** — Automated notifications for Azerbaijan's official legal gazette. *TypeScript*
 
-## 📈 Trading
-
-- 🐍 **[freqtrade-scalper](https://github.com/orzazade/freqtrade-scalper)** — Hydra: production trading system with custom Next.js dashboard and NestJS API. Champion strategy HydraV62OptA. *Python Freqtrade, Next.js, NestJS*
-
-- 📊 **[freqtrade](https://github.com/orzazade/freqtrade)** — Crypto strategy research lab. Champion V13a: 116,000% backtested return. *Python, Freqtrade*
-
 ---
 
 ## 🎮 Past Projects
@@ -60,7 +54,7 @@
 Languages       TypeScript · Go · Swift · Python · C#
 Frontend        React · React Native · SwiftUI · Expo
 Backend         NestJS · .NET · Convex · Go
-AI/Agents       Claude Code · Ollama · MCP · Freqtrade
+AI/Agents       Claude Code · Ollama · MCP
 CLI/Desktop     Cobra · Bubble Tea · AppKit/SwiftUI
 Cloud           Azure · Vercel · Coolify
 DevOps          Azure DevOps · GitHub Actions
@@ -84,7 +78,6 @@ DevOps          Azure DevOps · GitHub Actions
 
 - Building AI-native developer tools with Claude Code
 - Growing **awesome-ai-radar** as the go-to AI trend resource
-- Shipping production trading strategies with Hydra
 - Making developer workflows disappear
 
 ---
@@ -103,7 +96,6 @@ DevOps          Azure DevOps · GitHub Actions
 - ☕ Powered by tea and late-night sessions
 - 🏔️ From Azerbaijan, shipping to the world
 - 🚀 Built awesome-ai-radar from brainstorm to live site in one Claude Code session
-- 📈 My best trading strategy backtested 116,000% return
 
 </details>
 
