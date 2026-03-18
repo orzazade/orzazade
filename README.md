@@ -23,9 +23,11 @@
 
 - 🤖 **[ops](https://github.com/orzazade/ops)** — AI-powered DevOps assistant for Claude Code. Morning briefings, priority scoring, sprint management. Pure markdown, zero dependencies. *Claude Code Skills*
 
-- 🔔 **[beacon](https://github.com/orzazade/beacon)** — Unified work aggregator for your menu bar. Pulls from Azure DevOps, Teams, Outlook, Gmail. AI-prioritized with daily briefings. *Swift, SwiftUI, Ollama*
+- 🌙 **[crius](https://github.com/orzazade/crius)** — Autonomous code improvement agent. Register a project, set a goal, go to sleep. Crius runs experiments — reading, improving, testing, keeping what works, reverting what doesn't. *TypeScript, PostgreSQL, Claude Code*
 
 ### Apps & Platforms
+
+- 🔔 **[beacon](https://github.com/orzazade/beacon)** — Unified work aggregator for your menu bar. Pulls from Azure DevOps, Teams, Outlook, Gmail. AI-prioritized with daily briefings. *Swift, SwiftUI, Ollama*
 
 - 🩸 **[pulse](https://github.com/orzazade/pulse)** — Blood donation matching platform. Real-time donor-seeker connections when every second counts. *React Native, Expo, Convex*
 
