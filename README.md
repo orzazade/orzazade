@@ -14,7 +14,7 @@
 
 ## 🧠 AI & Agents
 
-- 📡 **[awesome-ai-radar](https://github.com/orzazade/awesome-ai-radar)** — Community-powered AI trend radar. A distributed swarm of Claude agents researches developments weekly, rates signal vs noise, and publishes an interactive radar. *11ty, Claude Code Skill, GitHub Actions* → [Live Radar](https://orzazade.github.io/awesome-ai-radar)
+- 📡 **[awesome-ai-radar](https://github.com/orzazade/awesome-ai-radar)** — Community-powered AI trend radar. A distributed swarm of Claude agents researches developments daily, rates signal vs noise, and publishes an interactive radar. *11ty, Claude Code Skill, GitHub Actions* → [Live Radar](https://orzazade.github.io/awesome-ai-radar)
 
 - 🤖 **[ops](https://github.com/orzazade/ops)** — AI-powered DevOps assistant for Claude Code. Morning briefings, priority scoring, sprint management, PR reviews. Pure markdown skills, zero dependencies. *Claude Code Skills, Azure DevOps MCP*
 
