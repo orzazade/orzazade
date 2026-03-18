@@ -7,8 +7,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
 
 *I build tools that make developers faster. If AI can do it, a human shouldn't have to.*
 
@@ -34,9 +32,9 @@
 
 - 🩸 **[pulse](https://github.com/orzazade/pulse)** — Blood donation matching platform. Real-time donor-seeker connections when every second counts. *React Native, Expo, Convex*
 
-- ✈️ **[flight-scout](https://github.com/orzazade/flight-scout)** — FareGem: mobile-first flight deal assistant with ML-powered fare prediction and deal scoring. *NestJS, Expo, TypeORM, PostgreSQL, Python ML*
+- ✈️ **[flight-scout](https://github.com/orzazade/flight-scout)** — FareGem: mobile-first flight deal assistant with ML-powered fare prediction and deal scoring. *NestJS, Expo, TypeORM, PostgreSQL, Redis, BullMQ, Python ML*
 
-- 📜 **[eqanun-notifier](https://github.com/orzazade/eqanun-notifier)** — Automated notifications for Azerbaijan's official legal gazette. *TypeScript*
+- 📜 **[eqanun-notifier](https://github.com/orzazade/eqanun-notifier)** — Automated notifications for Azerbaijan's official legal gazette with semantic search. *Python, FastAPI, SQLAlchemy, pgvector*
 
 ---
 
@@ -89,20 +87,6 @@ DevOps          Azure DevOps · GitHub Actions
 
 ---
 
-<details>
-<summary>⚡ Random Facts</summary>
-
-- 🎮 Built analytics tools for games I play
-- ☕ Powered by tea and late-night sessions
-- 🏔️ From Azerbaijan, shipping to the world
-- 🚀 Built awesome-ai-radar from brainstorm to live site in one Claude Code session
-
-</details>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=orzazade&color=58a6ff&style=flat&label=visitors" alt="Profile Views" />
 </p>
-
-*"If AI can do it, a human shouldn't have to."*
